@@ -1,0 +1,12 @@
+[project]
+name = "devanagarimnist"
+version = "0.1.0"
+description = "This project teaches you exactly how neural networks work by building one from scratch to recognize handwritten Devanagari characters (the script used for Hindi, Nepali, and Sanskrit)."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.7",
+    "numpy>=2.3.3",
+    "pandas>=2.3.3",
+]
